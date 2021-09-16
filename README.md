@@ -29,7 +29,7 @@ Desenvolvo aplicações com javascript, HTML, CSS, React.js, Node, Redux e Mater
 <div>
   <a href="https://github.com/johnpligeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnpligeiro&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=6"/>
 </div>
   
 ## :mailbox:**Contato**
