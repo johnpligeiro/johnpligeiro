@@ -35,7 +35,7 @@ Desenvolvo aplicações com javascript, HTML, CSS, React.js, Node, Redux e Mater
 ## :mailbox:**Contato**
 
 <p align="left">
-  <a href="johnpligeiro@gmail.com" alt="Gmail">
+  <a href="mailto:johnpligeiro@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/johnpligeiro/" alt="Linkedin">
