@@ -1,6 +1,6 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
-  Natural de Caratinga-MG, bacharéu em Engenharia Mecânica em 2018, estudo e gosto muito de tópicos relacionados à tecnologia. Atualmente estudo desenvolvimento de software na Trybe. Estudei e trabalhei anteriormente com edição de imagens e diagramação de textos, manutenção de computadores, CAD, georreferenciamento, lecionei e administrei servidores de MMORPGs.
-Desenvolvo aplicações com javascript, HTML, CSS, React.js, Node, Redux e MaterialUI , entre outros. Me encontro no módulo backend no curso da Trybe. Me interesso muito por Inteligência Artificial, Visão Computacional, Automação, Robótica e Mecanização Agrícola.
+  Natural de Caratinga-MG, bacharéu em Engenharia Mecânica, estudo e gosto muito de tópicos relacionados à tecnologia. Estudei e trabalhei anteriormente com edição de imagens e diagramação de textos, manutenção de computadores, CAD, georreferenciamento, lecionei e administrei servidores de MMORPGs.
+Desenvolvo aplicações com javascript, HTML, CSS, React.js, NodeJS, Redux e MaterialUI, entre outros. Me encontro no módulo de backend do curso da Trybe. Me interesso muito por Inteligência Artificial, Visão Computacional, Automação, Mecatrônica, Robótica e Mecanização Agrícola.
 
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
 
@@ -15,13 +15,18 @@ Desenvolvo aplicações com javascript, HTML, CSS, React.js, Node, Redux e Mater
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackg"></code>
+<code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 ## **:closed_book:Aprendendo**  
 
-<code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></code>
+<code><img height="30" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 
