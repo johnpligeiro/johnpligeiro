@@ -1,5 +1,5 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
-  Natural de Caratinga-MG, bacharéu em Engenharia Mecânica, estudo e gosto muito de tópicos relacionados à tecnologia. Estudei e trabalhei anteriormente com edição de imagens e diagramação de textos, manutenção de computadores, CAD, georreferenciamento, lecionei e administrei servidores de MMORPGs.
+  Natural de Caratinga-MG, bacharel em Engenharia Mecânica, estudo e gosto muito de tópicos relacionados à tecnologia. Estudei e trabalhei anteriormente com edição de imagens e diagramação de textos, manutenção de computadores, CAD, georreferenciamento, lecionei e administrei servidores de MMORPGs.
 Desenvolvo aplicações com javascript, HTML, CSS, React.js, NodeJS, Redux e MaterialUI, entre outros. Me encontro no módulo de backend do curso da Trybe. Me interesso muito por Inteligência Artificial, Visão Computacional, Automação, Mecatrônica, Robótica e Mecanização Agrícola.
 
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
