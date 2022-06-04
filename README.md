@@ -7,7 +7,7 @@
 
 - Estudo e gosto muito de tópicos relacionados à tecnologia.  Me interesso por Inteligência Artificial, Visão Computacional, Automação, Robótica , Mecatrônica, Mecanização Agrícola, Psicologia e Neurociência.
 
-- Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia, cinema, animes, mangás e HQs.
+- Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia, cinema, animes, mangás, HQs e culinária.
 
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
 
