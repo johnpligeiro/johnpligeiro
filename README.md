@@ -1,9 +1,13 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 - Pós-graduando em Engenharia de Software, formado em Desenvolvimento Web Fullstack pela Trybe, graduado em Engenharia Mecânica.
-- Desenvolvo aplicações com javascript, HTML, CSS, React.js, Node, Redux e MaterialUI, Python, Django / DRF, Java, entre outros.
-- Minha posição atual é Analista de Sistamas Jr. e lido diariamente com as rotinas de desenvolvimento de software, trabalhando em equipe na manutenção e implementação de novas funcionalidades em uma plataforma de automação de pivôs de irrigação, refatoração, kanban/agile, banco de dados, planejamento, implementações de frontend e backend, processos e métodos de trabalho, documentação, versionamento e criação de releases, pair pŕogramming, deploy para web e mobile (Android e iOS) e monitoramento/APM.
-- Estudo e gosto muito de tópicos relacionados à tecnologia. Me interesso por Inteligência Artificial, Visão Computacional, Automação, Robótica , Mecatrônica, Mecanização Agrícola, Psicologia e Neurociência.
-- Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia e cinema.
+
+- Desenvolvo aplicações com javascript/typescript, HTML, CSS, React.js, Node, Redux, MaterialUI, Python, Django / DRF, Java, entre outros.
+
+- Minha posição atual é Analista de Sistamas Jr. e lido diariamente com as rotinas de desenvolvimento de software, trabalhando em equipe na manutenção e implementação de novas funcionalidades em uma plataforma de automação de pivôs de irrigação / IoT, refatoração, kanban/agile, banco de dados, planejamento, implementações de frontend e backend, processos e métodos de trabalho, documentação, versionamento e criação de releases, pair programming, deploy para web e mobile (Android e iOS) e monitoramento/APM.
+
+- Estudo e gosto muito de tópicos relacionados à tecnologia.  Me interesso por Inteligência Artificial, Visão Computacional, Automação, Robótica , Mecatrônica, Mecanização Agrícola, Psicologia e Neurociência.
+
+- Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia, cinema, animes, mangás e HQs.
 
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
 
