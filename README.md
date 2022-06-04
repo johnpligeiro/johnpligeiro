@@ -1,6 +1,9 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
-  Natural de Caratinga-MG, bacharel em Engenharia Mecânica, estudo e gosto muito de tópicos relacionados à tecnologia. Estudei e trabalhei anteriormente com edição de imagens e diagramação de textos, manutenção de computadores, CAD, georreferenciamento, lecionei e administrei servidores de MMORPGs.
-Desenvolvo aplicações com javascript, HTML, CSS, React.js, NodeJS, Redux e MaterialUI, entre outros. Me encontro no módulo de backend do curso da Trybe. Me interesso muito por Inteligência Artificial, Visão Computacional, Automação, Mecatrônica, Robótica e Mecanização Agrícola.
+- Pós-graduando em Engenharia de Software, formado em Desenvolvimento Web Fullstack na Trybe, graduado em Engenharia Mecânica.
+- Desenvolvo aplicações com javascript, HTML, CSS, React.js, Node, Redux e MaterialUI, Python, Django / DRF, Java, entre outros.
+- Minha posição atual é Analista de Sistamas Jr. e lido diariamente com as rotinas de desenvolvimento de software, trabalhando em equipe na manutenção e implementação de novas funcionalidades em uma plataforma de automação de pivôs de irrigação, refatoração, kanban/agile, banco de dados, planejamento, implementações de frontend e backend, processos e métodos de trabalho, documentação, versionamento e criação de releases, deploy para web e mobile (Android e iOS), monitoramento/APM.
+- Estudo e gosto muito de tópicos relacionados à tecnologia. Me interesso por Inteligência Artificial, Visão Computacional, Automação, Robótica , Mecatrônica e Mecanização Agrícola e Psicologia e Neurociência.
+- Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia e cinema.
 
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
 
