@@ -44,6 +44,8 @@
 <code><img height="30" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 - Design Patterns;
+- Clean Code;
+- Clean Architecture.
 
 ## **💻Estatísticas do GitHub**
 
