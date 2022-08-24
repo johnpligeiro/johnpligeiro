@@ -3,7 +3,7 @@
  
  Experiência no desenvolvimento de aplicações com javascript/typescript, HTML, CSS,React.js, Node, Redux, MaterialUI, Python, Django / DRF, Java,entre outros. Com atuação como Analista de Sistemas desenvolvo software, além de atuar na manutenção e implementação de novas funcionalidades em uma plataforma de automação de pivôs de irrigação/ IoT, refatoração, Kanban/ Agile, banco de dados, planejamento, implementação de front-end e back-end, processos e métodos de trabalho, documentação, versionamento e criação de releases, pair programming, deploy para web e mobile (Android e iOS) e monitoramento/ APM. 
  
- Tenho interesse por Inteligência Artificial, Visão Computacional, Automação, Robótica, Mecatrônica, Mecanização Agrícola, Agricultura de Precisão, Permacultura, Psicologia e Neurociência.
+ Tenho interesse por Inteligência Artificial, Visão Computacional, Automação, Robótica, Mecatrônica, Mecanização Agrícola, Agricultura de Precisão, Cafeicultura, Permacultura, Psicologia e Neurociência.
  Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia, cinema, animes, mangás, HQs e culinária.
  
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
