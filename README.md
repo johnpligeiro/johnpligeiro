@@ -1,10 +1,13 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
- Profissional pós-graduando em Engenharia de Software com formação em Desenvolvimento Web Full-stack pela Trybe, além de graduação em Engenharia Mecânica. 
- 
- Experiência no desenvolvimento de aplicações com javascript/typescript, HTML, CSS,React.js, Node, Redux, MaterialUI, Python, Django / DRF, Java,entre outros. Com atuação como Analista de Sistemas desenvolvo software, além de atuar na manutenção e implementação de novas funcionalidades em uma plataforma de automação de pivôs de irrigação/ IoT, refatoração, Kanban/ Agile, banco de dados, planejamento, implementação de front-end e back-end, processos e métodos de trabalho, documentação, versionamento e criação de releases, pair programming, deploy para web e mobile (Android e iOS) e monitoramento/ APM. 
- 
- Tenho interesse por Inteligência Artificial, Visão Computacional, Automação, Robótica, Mecatrônica, Mecanização Agrícola, Agricultura de Precisão, Cafeicultura, Permacultura, Psicologia e Neurociência.
- Além da tecnologia, meus hobbies são: música, violão, literatura, filosofia, cinema, animes, mangás, HQs e culinária.
+
+Engenheiro de Software Full Stack com experiência no desenvolvimento de aplicações completas, do front-end ao back-end, com foco em performance, escalabilidade e qualidade de código. Trabalho com Java, C#, JavaScript, Python e tecnologias modernas de APIs, bancos de dados e arquitetura de software.
+
+Atuei em times globais na Syngenta Digital, contribuindo no desenvolvimento e evolução de sistemas, decisões arquiteturais e melhoria contínua. Também participei da construção de uma plataforma IoT na Bauer do Brasil, atuando em todas as camadas da aplicação.
+
+Tenho base sólida em tecnologia, passando por suporte, redes e infraestrutura até engenharia de software, o que me dá visão ampla e adaptação rápida. Valorizo código limpo, boas práticas, colaboração e entrega de valor real.
+
+Inglês profissional. Em constante evolução em arquitetura de software e cloud.
+
  
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
 
@@ -30,8 +33,6 @@
 <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-
-## **:closed_book:Aprendendo**  
 <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></code>
 <code><img height="30" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></code>
@@ -63,6 +64,3 @@
 
   <a href="https://t.me/johnpligeiro" alt="Telegram">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/johnpligeiro"/></a>
-
-  <a href="https://stackoverflow.com/users/16921474/john-pierre" alt="StackOverflow">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16921474/john-pierre"/></a>
