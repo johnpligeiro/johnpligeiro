@@ -6,6 +6,8 @@ Atuei em times globais na Syngenta Digital, contribuindo no desenvolvimento e ev
 
 Tenho base sólida em tecnologia, passando por suporte, redes e infraestrutura até engenharia de software, o que me dá visão ampla e adaptação rápida. Valorizo código limpo, boas práticas, colaboração e entrega de valor real.
 
+Busco atuar em projetos que tenham propósito claro e impacto positivo, onde a tecnologia seja usada para construir um mundo mais justo e sustentável. Valorizo iniciativas que promovam o uso consciente de recursos, o respeito às pessoas e ao meio ambiente, contribuindo não só para o presente, mas também para as futuras gerações.
+
 Inglês profissional. Em constante evolução em arquitetura de software e cloud.
 
  
