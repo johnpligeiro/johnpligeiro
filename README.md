@@ -8,7 +8,7 @@ Tenho base sólida em tecnologia, passando por suporte, redes e infraestrutura a
 
 Levo para os projetos uma visão orientada a propósito e impacto positivo, usando a tecnologia para contribuir com soluções mais justas e sustentáveis. Procuro agregar valor incentivando o uso consciente de recursos, o respeito às pessoas e ao meio ambiente, com foco em resultados que beneficiem tanto o presente quanto as futuras gerações.
 
-Inglês profissional. Estudando RedTeam / Cybersegurança ofensiva.
+Inglês profissional. Estudando cibersegurança.
 
  
 ## **:heavy_check_mark:Linguagens e Ferramentas:**  
